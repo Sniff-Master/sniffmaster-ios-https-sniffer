@@ -1,3 +1,4 @@
+📖 [中文介绍点这里 »](README.zh-CN.md)
 # Sniffmaster - Cross-platform iOS & HTTPS Packet Sniffer
 
 ---
