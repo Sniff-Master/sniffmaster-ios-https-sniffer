@@ -42,8 +42,7 @@ Sniffmaster（抓包大师）是一款跨平台的网络抓包与调试工具，
 ## 联系与支持
 
 - 官网：[https://www.sniffmaster.net/](https://www.sniffmaster.net/)
-- 邮箱支持：support@sniffmaster.net
-- 官方QQ群/Telegram：请访问官网查看
+- 官方QQ群：请访问官网查看
 
 ---
 
